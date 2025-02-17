@@ -2,6 +2,7 @@ FreeCodeCamp Machine Learning with Python — 2025 Solutions
 =====================
 
 -   [Course Link](https://www.freecodecamp.org/learn/machine-learning-with-python)
+
 -   [My Certificate](https://www.freecodecamp.org/certification/Dariush0025/machine-learning-with-python-v7 )
 
 # Table of Contents 
