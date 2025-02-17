@@ -20,4 +20,4 @@ I finished this course on February 6, 2025.
 The picture below shows my certificate after completing all the assignments:
 
 
-![Machine Learning](image/machine_learning.png)
+![Machine Learning](image/machine learning.png)
