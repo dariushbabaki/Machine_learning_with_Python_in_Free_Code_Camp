@@ -8,7 +8,7 @@ FreeCodeCamp Machine Learning with Python — 2025 Solutions
 
 # Table of Contents 
 
-- [Rock Paper Scissors](https://github.com/dariushbabaki/Machine_learning_with_Python_in_Free_Code_Camp/tree/main/RPS_game)
+- [Rock Paper Scissors](https://github.com/dariushbabaki/Machine_learning_with_Python_in_Free_Code_Camp/tree/main/Rock%20Paper%20Scissors)
 - [Cat and Dog Image Classifier](https://github.com/dariushbabaki/Machine_learning_with_Python_in_Free_Code_Camp/tree/main/Cat%20and%20Dog%20Image%20Classifier)
 -[Book Recommendation Engine using KNN](https://github.com/dariushbabaki/Machine_learning_with_Python_in_Free_Code_Camp/tree/main/Book%20Recommendation%20Engine%20using%20KNN)
 - [Linear Regression Health Costs Calculator](https://github.com/dariushbabaki/Machine_learning_with_Python_in_Free_Code_Camp/tree/main/Linear%20Regression%20Health%20Costs%20Calculator)
